@@ -20,7 +20,7 @@ function App() {
   <Container>
         <Row>
     <Col xs={0} md={2} className='navigation'>
-    <img src="/src/favicon.svg" alt=""/>
+    <img src="./facicon.svg" alt=""/>
         <h1>Community Plugins</h1>
         <ul >
         {
